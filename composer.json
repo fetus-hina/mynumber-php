@@ -9,9 +9,11 @@
         }
     ],
     "require": {
-        "php": ">= 5.4.0",
+        "php": ">= 5.3.3",
         "ext-pcre": "*",
-        "paragonie/random_compat": "^1.1.0",
+        "paragonie/random_compat": "^1.1.0"
+    },
+    "require-dev": {
         "squizlabs/php_codesniffer": "^2.3.4"
     },
     "autoload": {
