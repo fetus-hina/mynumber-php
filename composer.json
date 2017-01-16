@@ -11,10 +11,10 @@
     "require": {
         "php": ">= 5.3.3",
         "ext-pcre": "*",
-        "paragonie/random_compat": "^1.1.0"
+        "paragonie/random_compat": "@stable"
     },
     "require-dev": {
-        "squizlabs/php_codesniffer": "^2.3.4"
+        "squizlabs/php_codesniffer": "@stable"
     },
     "autoload": {
         "psr-4": {
